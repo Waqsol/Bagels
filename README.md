@@ -5,4 +5,4 @@
 ### Fermi: One digit is correct and in the right position.
 ### Bagels: No digit is correct.
 ### Otherwise: a message will appear that will notify you that you guessed
-# Good luck!
+# To start, you need to run the file main.py. Good luck!
